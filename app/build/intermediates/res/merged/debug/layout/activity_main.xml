@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+  >
+
+    <com.example.zhy_bouncescrollview02.BounceScrollView
+        android:background="@drawable/shakehideimg_man"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/id_scrollView" >
+
+        <com.example.zhy_bouncescrollview02.MyListView
+            android:background="#fff"
+            android:id="@+id/id_listView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+        </com.example.zhy_bouncescrollview02.MyListView>
+    </com.example.zhy_bouncescrollview02.BounceScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\zhy_bounceScrollView021\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "D:\\android\\zhy_bounceScrollView021\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\android\\zhy_bounceScrollView021\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "D:\\android\\zhy_bounceScrollView021\\app\\src\\main\\res\\anim\\fade_in.xml"
+    }
+]
